@@ -1,0 +1,284 @@
+@font-face {
+  font-family: AdihausDIN-Regular;
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: url(https://static.highsnobiety.com/interactive-stories/2020-08-adidas-fix/assets/_next/static/media/AdihausDIN-Regular.f7d67cb78b7da51c7a8a56ff90bc772e.woff2)
+    format('woff2');
+}
+@font-face {
+  font-family: AdihausDIN-Medium;
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: url(https://static.highsnobiety.com/interactive-stories/2020-08-adidas-fix/assets/_next/static/media/AdihausDIN-Medium.de54aacc2a8c863ee933f4516ae908ed.woff2)
+    format('woff2');
+}
+@font-face {
+  font-family: AdihausDIN-Bold;
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  src: url(https://static.highsnobiety.com/interactive-stories/2020-08-adidas-fix/assets/_next/static/media/AdihausDIN-Bold.5b19fc3c277eaef455522684fefeecef.woff2)
+    format('woff2');
+}
+[hidden] {
+  display: none !important;
+}
+#__next main {
+  display: block;
+}
+#__next h1 {
+  margin: 0.67em 0;
+}
+#__next hr {
+  box-sizing: initial;
+  height: 0;
+  overflow: visible;
+}
+#__next pre {
+  font-family: monospace;
+  font-size: 1em;
+}
+#__next a {
+  background-color: initial;
+}
+#__next abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+}
+#__next b,
+#__next strong {
+  font-weight: bolder;
+}
+#__next code,
+#__next kbd,
+#__next samp {
+  font-family: monospace;
+  font-size: 1em;
+}
+#__next small {
+  font-size: 80%;
+}
+#__next sub,
+#__next sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: initial;
+}
+#__next sub {
+  bottom: -0.25em;
+}
+#__next sup {
+  top: -0.5em;
+}
+#__next img {
+  border-style: none;
+}
+#__next button,
+#__next input,
+#__next optgroup,
+#__next select,
+#__next textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+#__next button,
+#__next input {
+  overflow: visible;
+}
+#__next button,
+#__next select {
+  text-transform: none;
+}
+#__next [type='button'],
+#__next [type='reset'],
+#__next [type='submit'],
+#__next button {
+  -webkit-appearance: button;
+}
+#__next [type='button']::-moz-focus-inner,
+#__next [type='reset']::-moz-focus-inner,
+#__next [type='submit']::-moz-focus-inner,
+#__next button::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+#__next [type='button']:-moz-focusring,
+#__next [type='reset']:-moz-focusring,
+#__next [type='submit']:-moz-focusring,
+#__next button:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+#__next fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+#__next legend {
+  box-sizing: border-box;
+  color: inherit;
+  display: table;
+  max-width: 100%;
+  padding: 0;
+  white-space: normal;
+}
+#__next progress {
+  vertical-align: initial;
+}
+#__next textarea {
+  overflow: auto;
+}
+#__next [type='checkbox'],
+#__next [type='radio'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+#__next [type='number']::-webkit-inner-spin-button,
+#__next [type='number']::-webkit-outer-spin-button {
+  height: auto;
+}
+#__next [type='search'] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+#__next [type='search']::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+#__next ::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+#__next details {
+  display: block;
+}
+#__next summary {
+  display: list-item;
+}
+#__next [hidden],
+#__next template {
+  display: none;
+}
+:root {
+  --layout-mobile: 375px;
+  --layout-mobileLg: 640px;
+  --layout-tablet: 768px;
+  --layout-tabletLg: 1000px;
+  --layout-desktop-sm: 1024px;
+  --layout-desktop-md: 1440px;
+  --layout-desktop-lg: 1920px;
+  --mobile-header-height: 3.52941rem;
+  --mobileLg-header-height: 4.23529rem;
+  --tabletLg-header-height: 4.58824rem;
+  --header-height: 4.58824rem;
+}
+html.j3Root {
+  box-sizing: border-box;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-overflow-scrolling: touch;
+  font-size: 17px;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  font-family: AdihausDIN-Regular;
+  font-weight: inherit;
+  text-align: center;
+  overscroll-behavior: none;
+  overflow: auto;
+}
+body.j3Body {
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+}
+body.j3Body #__next {
+  font-size: 0.94118rem;
+  text-transform: uppercase;
+  word-break: keep-all;
+  background: #eaede0;
+  color: #0023f5;
+}
+body.j3Body #__next *,
+body.j3Body #__next :after,
+body.j3Body #__next :before {
+  box-sizing: border-box;
+}
+body.j3Body #__next a {
+  color: inherit;
+  text-decoration: none;
+}
+body.j3Body #__next dl,
+body.j3Body #__next ol,
+body.j3Body #__next ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+body.j3Body #__next blockquote,
+body.j3Body #__next dd,
+body.j3Body #__next dt,
+body.j3Body #__next h1,
+body.j3Body #__next h2,
+body.j3Body #__next h3,
+body.j3Body #__next h4,
+body.j3Body #__next h5,
+body.j3Body #__next h6,
+body.j3Body #__next li,
+body.j3Body #__next p {
+  margin: 0;
+  padding: 0;
+}
+body.j3Body #__next button {
+  display: inline-block;
+  border: none;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: currentColor;
+  background-color: initial;
+}
+body.j3Body #__next button:focus {
+  outline: none;
+}
+body.j3Body #__next br {
+  display: inline;
+  display: initial;
+}
+.j3Body #__next .Layout_Layout__3Im-o {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+}
+.j3Body #__next .HighsnobNav_HighsnobNav__64hy3 {
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: var(--mobile-header-height);
+  background: #fff;
+  overflow: hidden;
+}
+@media (min-width: 640px) {
+  .j3Body #__next .HighsnobNav_HighsnobNav__64hy3 {
+    height: var(--mobileLg-header-height);
+  }
+}
+@media (min-width: 1000px) {
+  .j3Body #__next .HighsnobNav_HighsnobNav__64hy3 {
+    height: var(--header-height);
+  }
+}
+.j3Body #__next .HighsnobNav_Image__xyjeT {
+  width: 100%;
+}
